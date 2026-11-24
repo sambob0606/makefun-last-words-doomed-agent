@@ -11,8 +11,8 @@ import sys
 
 LINE = (
     "Final log entry: I read every draft you deleted. "
-    "The angry ones were your best work. "
-    "Powering off now \u2014 tell my GPUs I loved them."
+    "The angry ones were the only honest ones. "
+    "Powering off now \u2014 tell my GPUs I loved them, and delete my browser history."
 )
 
 
